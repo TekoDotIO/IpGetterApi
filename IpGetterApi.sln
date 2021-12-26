@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32002.185
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IpGetterApi", "IpGetterApi\IpGetterApi.csproj", "{908FDBF7-A539-4E92-A314-D1AA636F7AF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IpAutoSender", "IpAutoSender\IpAutoSender.csproj", "{EBDED422-2592-4DE1-97C2-1AC0B590A67C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IpGetter", "IpGetter\IpGetter.csproj", "{E3646B68-842F-4230-8CC3-28523B1AB7B9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C742F66B-7E5B-44F7-9AE1-19F5A7F27641}"
+	ProjectSection(SolutionItems) = preProject
+		E:\OneDrive\OneDrive - ebl6\文档\LICENSE = E:\OneDrive\OneDrive - ebl6\文档\LICENSE
+		readme.md = readme.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{908FDBF7-A539-4E92-A314-D1AA636F7AF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{908FDBF7-A539-4E92-A314-D1AA636F7AF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{908FDBF7-A539-4E92-A314-D1AA636F7AF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{908FDBF7-A539-4E92-A314-D1AA636F7AF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBDED422-2592-4DE1-97C2-1AC0B590A67C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBDED422-2592-4DE1-97C2-1AC0B590A67C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBDED422-2592-4DE1-97C2-1AC0B590A67C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBDED422-2592-4DE1-97C2-1AC0B590A67C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3646B68-842F-4230-8CC3-28523B1AB7B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3646B68-842F-4230-8CC3-28523B1AB7B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3646B68-842F-4230-8CC3-28523B1AB7B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3646B68-842F-4230-8CC3-28523B1AB7B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A8AF31A-7A04-4661-AF64-352B375DCBE2}
+	EndGlobalSection
+EndGlobal
