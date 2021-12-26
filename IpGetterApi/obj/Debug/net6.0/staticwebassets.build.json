@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5DYT62uvzPVvxULjh79vHkiHWKqZJMMQi7DfCbf8Fhg=",
+  "Source": "IpGetterApi",
+  "BasePath": "_content/IpGetterApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

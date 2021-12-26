@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\IpGetterApi\IpAutoSender\bin\Debug\net6.0\IpAutoSender.exe
+C:\Users\Administrator\source\repos\IpGetterApi\IpAutoSender\bin\Debug\net6.0\IpAutoSender.deps.json
+C:\Users\Administrator\source\repos\IpGetterApi\IpAutoSender\bin\Debug\net6.0\IpAutoSender.runtimeconfig.json
+C:\Users\Administrator\source\repos\IpGetterApi\IpAutoSender\bin\Debug\net6.0\IpAutoSender.dll
+C:\Users\Administrator\source\repos\IpGetterApi\IpAutoSender\bin\Debug\net6.0\ref\IpAutoSender.dll
+C:\Users\Administrator\source\repos\IpGetterApi\IpAutoSender\bin\Debug\net6.0\IpAutoSender.pdb
+C:\Users\Administrator\source\repos\IpGetterApi\IpAutoSender\obj\Debug\net6.0\IpAutoSender.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\IpGetterApi\IpAutoSender\obj\Debug\net6.0\IpAutoSender.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\IpGetterApi\IpAutoSender\obj\Debug\net6.0\IpAutoSender.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\IpGetterApi\IpAutoSender\obj\Debug\net6.0\IpAutoSender.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\IpGetterApi\IpAutoSender\obj\Debug\net6.0\IpAutoSender.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\IpGetterApi\IpAutoSender\obj\Debug\net6.0\IpAutoSender.dll
+C:\Users\Administrator\source\repos\IpGetterApi\IpAutoSender\obj\Debug\net6.0\ref\IpAutoSender.dll
+C:\Users\Administrator\source\repos\IpGetterApi\IpAutoSender\obj\Debug\net6.0\IpAutoSender.pdb
+C:\Users\Administrator\source\repos\IpGetterApi\IpAutoSender\obj\Debug\net6.0\IpAutoSender.genruntimeconfig.cache

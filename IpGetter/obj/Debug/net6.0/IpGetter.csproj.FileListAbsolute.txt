@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\IpGetterApi\IpGetter\bin\Debug\net6.0\IpGetter.exe
+C:\Users\Administrator\source\repos\IpGetterApi\IpGetter\bin\Debug\net6.0\IpGetter.deps.json
+C:\Users\Administrator\source\repos\IpGetterApi\IpGetter\bin\Debug\net6.0\IpGetter.runtimeconfig.json
+C:\Users\Administrator\source\repos\IpGetterApi\IpGetter\bin\Debug\net6.0\IpGetter.dll
+C:\Users\Administrator\source\repos\IpGetterApi\IpGetter\bin\Debug\net6.0\ref\IpGetter.dll
+C:\Users\Administrator\source\repos\IpGetterApi\IpGetter\bin\Debug\net6.0\IpGetter.pdb
+C:\Users\Administrator\source\repos\IpGetterApi\IpGetter\obj\Debug\net6.0\IpGetter.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\IpGetterApi\IpGetter\obj\Debug\net6.0\IpGetter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\IpGetterApi\IpGetter\obj\Debug\net6.0\IpGetter.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\IpGetterApi\IpGetter\obj\Debug\net6.0\IpGetter.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\IpGetterApi\IpGetter\obj\Debug\net6.0\IpGetter.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\IpGetterApi\IpGetter\obj\Debug\net6.0\IpGetter.dll
+C:\Users\Administrator\source\repos\IpGetterApi\IpGetter\obj\Debug\net6.0\ref\IpGetter.dll
+C:\Users\Administrator\source\repos\IpGetterApi\IpGetter\obj\Debug\net6.0\IpGetter.pdb
+C:\Users\Administrator\source\repos\IpGetterApi\IpGetter\obj\Debug\net6.0\IpGetter.genruntimeconfig.cache
